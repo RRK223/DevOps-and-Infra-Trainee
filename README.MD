@@ -65,10 +65,8 @@ This project demonstrates an end-to-end DevOps workflow on an Ubuntu Server, cov
 
 ## ✅ Prerequisites
 
-Before starting, ensure you have:
-
 - **Ubuntu Server** (26.04.1 lts used)
-- - **Remote OS** (wsl2 ubuntu used)
+- - **Remote OS** (WSL2 ,ubuntu used)
 - **Root or sudo access** on the server
 - **Docker** and **Docker Compose** installed
 - **Git** installed
