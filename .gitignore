@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs and Backups (Don't push local logs or DB dumps to GitHub)
+*.log
+*.sql
+*.sql.gz
+*.tar.gz
+/var/log/
+/var/backups/
+
+# IDE
+.vscode/
+.idea/
